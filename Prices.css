@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+main{
+text-align: center;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+}
+
+nav{
+    background-color: black;
+    padding: 5px 20px;
+}
+ul{
+    list-style-type: none;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.menu li{
+    font-size: 16px;
+    padding: 15px 5px;
+}
+
+.menu li a{
+    display: block;
+}
+
+.logo{
+    font-size: 20px;
+}
+
+.Prices{
+    text-align: left;
+}
